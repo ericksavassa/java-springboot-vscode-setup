@@ -10,10 +10,6 @@ Repository to represent how to create a springboot project on VS Code
 * Spring Boot Dashboard
 * Debugger for Java
 
-## Generate project on:
-
-* https://start.spring.io/
-
 ## Steps:
 
 * 1 - CTRL + P > Spring
@@ -28,3 +24,12 @@ Repository to represent how to create a springboot project on VS Code
 ## PS:
 
 Install dotnet core could be useful
+
+
+## Generate project on:
+
+* http://localhost:9898/swagger-ui.html#/
+
+* https://start.spring.io/
+
+* https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
