@@ -34,3 +34,8 @@ Install dotnet core could be useful
 * https://start.spring.io/
 
 * https://www.baeldung.com/swagger-2-documentation-for-spring-rest-api
+
+### Commands
+
+* ./mvnw package && java -jar target/demo-0.0.1.jar
+* ./mvnw install dockerfile:build
