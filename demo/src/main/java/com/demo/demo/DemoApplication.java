@@ -15,7 +15,7 @@ public String getMethodName() {
 }
 
 @GetMapping(value = "/test")	
-public String getMethodName(String a) {
+public String Test(String a) {
 	return a;
 }
 
